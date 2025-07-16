@@ -129,9 +129,9 @@ The author is not responsible for any misuse.
 
 **H. Magudeshwaran**  
 💼 Aspiring AI & Data Science Engineer  
-📧 Email: [magudeshhmw@gmail.com](mailto:magudeshhmw@gmail.com)  
-🌐 LinkedIn: [linkedin.com/in/magudesh](https://linkedin.com/in/magudesh)  
-📂 GitHub: [github.com/Magudeshhmw](https://github.com/Magudeshhmw)
+📧 Email: [senthil2005kumaran@gmail.com](mailto:senthil2005kumaran@gmail.com)  
+🌐 LinkedIn: [linkedin.com/in/senthilkumaran75](https://linkedin.com/in/senthilkumaran75)  
+
 
 ---
 
